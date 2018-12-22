@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/mg/Documents/courses/emotional-analysis/my_test_model98000-98000"
+all_model_checkpoint_paths: "/home/mg/Documents/courses/emotional-analysis/my_test_model90000-90000"
+all_model_checkpoint_paths: "/home/mg/Documents/courses/emotional-analysis/my_test_model92000-92000"
+all_model_checkpoint_paths: "/home/mg/Documents/courses/emotional-analysis/my_test_model94000-94000"
+all_model_checkpoint_paths: "/home/mg/Documents/courses/emotional-analysis/my_test_model96000-96000"
+all_model_checkpoint_paths: "/home/mg/Documents/courses/emotional-analysis/my_test_model98000-98000"
